@@ -1,6 +1,6 @@
-# 🚀 **AI-Powered Interview Preparation Platform**
+# 🚀 **EvalvAI (AI-Powered Interview Preparation Platform)**
 
-### *Your Complete Placement Partner – Powered by AI*
+### *Your all in one AI Companion – Powered by AI*
 
 Built with passion, precision, and cutting-edge technology by
 **Subham Bhattacharya, Vivek, Akash Gupta, and Chhavi Prabhat**.
@@ -183,8 +183,8 @@ NEXT_PUBLIC_APP_URL=http://localhost:3000
 ### **1. Clone the Repository**
 
 ```bash
-git clone https://github.com/yourusername/ai-interview-platform.git
-cd ai-interview-platform
+git clone https://github.com/Subhampops/Interview-Ai.git
+cd Interview-Ai
 ```
 
 ### **2. Install Dependencies**
