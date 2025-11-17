@@ -248,7 +248,7 @@ Content & UX Flow Designer • Mock Test Specialist ( Chat Bot )
 
 ## ❤️ **Acknowledgements**
 
-**This Project is made Under the guidance of Dr. Abhishek Bandyopadhyay**
+**This Project is made Under the guidance of Dr. Abhishek Bandyopadhyay.**
 A huge thank you to all mentors, testers, and early users who helped refine this platform.
 We built this with the belief that **AI can empower every student to shine in interviews**.
 
